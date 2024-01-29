@@ -1,0 +1,13 @@
+tipo:Corriente:11300:800.0
+tipo:Low Cost:6000:450.0
+tipo:Diesel:9500:200.0
+tipo:Premium:20000:1000.0
+surtidor:Samuel Villamizar:Corriente:0.0:Low Cost:0.0:Diesel:0.0:Premium:0.0
+surtidor:Jose David Gomez:Corriente:0.0:Low Cost:0.0:Diesel:0.0:Premium:0.0
+surtidor:Jose David Gomez:Corriente:0.0:Low Cost:0.0:Diesel:0.0:Premium:0.0
+surtidor:Daniel Briceño:Corriente:0.0:Low Cost:0.0:Diesel:0.0:Premium:0.0
+empleado:Jose David Gomez:0
+empleado:Daniel Briceño:0
+empleado:Mariana Duque:0
+empleado:Samuel Villamizar:0
+empleado:Santiago Gomez:0
